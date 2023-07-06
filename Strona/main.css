@@ -1,0 +1,36 @@
+*{
+    margin: 0px;
+    text-align: center;
+}
+#nav{
+    width: 100vw;
+    height: 5vh;
+    background-color: blue;
+}
+.btn{
+    line-height: 160%;
+    padding-top: 0%;
+    height: 80%;
+    width: 20%;
+    background-color: aqua;
+    float: left;
+    border-radius: 1vw;
+    font-size: x-large;
+}
+.btn#login{color: red; font-weight: bold;}
+#content{
+    width: 100vw;
+    height: 90vh;
+    background-color: blueviolet;
+    padding-top: 2vh;
+    padding-bottom: 1vh;
+    font-size: xx-large;
+}
+#footer{
+    width: 100vw;
+    height: 2vh;
+    background-color: red;
+    text-align: left;
+}
+a{text-decoration: none;}
+a.visited{text-decoration: none;}
