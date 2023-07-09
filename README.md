@@ -1,21 +1,36 @@
+
 # Serwer MC
 
 ## Do zrobienia
+
 - Hosting [Dominik]
+
 - Pluginy mc
-- Strona internetowa
-- Integracja pośrednika płatności 
+
+- Strona internetowa (Design gdzie?) [Siric]
+
+- Integracja pośrednika płatności
+LUB
 - Sklep aka Itemshop
-- DB [Siric]
-- Integracja DB z pluginami
-- Integracja DB ze stroną
+
+- DB (CzęściOwO zrobione) [Siric]
+
+- Integracja DB z pluginami (Wymaga pluginów)
+
+- Integracja DB ze stroną (Wymaga strony) [Siric]
 
 # Stack
-HOST: ORCL Cloud [log:pass]
-DB: MySQL [root:''] //DO ZMIANY
-FTP: Vsftpd [log:pass] 
+
+HOST: ~~ORCL Cloud [log:pass]~~ TitanSex
+
+DB: MySQL [www12243_baza:'afHWjdxdrss9dVXUramL'] //NIE DO ZMIANY
+
+FTP: [www12243_dominik:1nor.Aee] //NIE DO ZMIANY
+
 HTTP: Apache2
+
 PHP: Apache2
 
 # Zakaz bezsensownego commitowania!
-bo zmieniłem jedną linijkę, więc wyjebie wszystkim synchro
+
+Bo zmieniłem jedną linijkę, więc wyjebie wszystkim synchro
